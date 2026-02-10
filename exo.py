@@ -1,6 +1,6 @@
 import streamlit as st
 with st.sidebar:
-    st.image("Sarr.jpg")
+    st.image("Sarr.jpg") 
     st.header("Profil")
     st.write("Technicien supérieur en géomatique avec des connaissances en base de SIG, cartographie numérique et gestion des données géographiques. Intéressé par l'analyse spatiale et la création de cartes thématiques.Sérieux,motivé et prêt a travailler avec l'équipe")
     st.write("Tel: 78-842-14-95")
